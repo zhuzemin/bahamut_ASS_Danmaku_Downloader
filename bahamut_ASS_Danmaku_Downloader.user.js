@@ -3,7 +3,7 @@
 // @namespace   https://github.com/tiansh, https://github.com/zhuzemin
 // @description 以 ASS 格式下载 bahamut 的弹幕
 // @include     https://ani.gamer.com.tw/animeVideo.php?sn=*
-// @version     1.0
+// @version     1.2
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
 // @run-at      document-start
@@ -11,6 +11,7 @@
 // @copyright   2014+, 田生
 // @license     Mozilla Public License 2.0; http://www.mozilla.org/MPL/2.0/
 // @license     CC Attribution-ShareAlike 4.0 International; http://creativecommons.org/licenses/by-sa/4.0/
+// @connect-src ani.gamer.com.tw
 // ==/UserScript==
 
 // 设置项
