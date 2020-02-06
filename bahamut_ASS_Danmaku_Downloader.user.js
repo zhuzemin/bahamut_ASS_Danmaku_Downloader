@@ -1,7 +1,9 @@
 ﻿// ==UserScript==
 // @name        bahamut ASS Danmaku Downloader
+// @name:zh-TW         bahamut ASS Danmaku Downloader
 // @namespace   https://github.com/tiansh, https://github.com/zhuzemin
-// @description 以 ASS 格式下载 bahamut 的弹幕
+// @description http://ani.gamer.com.tw download danmaku as ".ass"
+// @description:zh-TW  http://ani.gamer.com.tw download danmaku as ".ass"
 // @include     https://ani.gamer.com.tw/animeVideo.php?sn=*
 // @version     1.2
 // @grant       GM_addStyle
