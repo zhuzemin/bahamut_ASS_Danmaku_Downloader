@@ -749,7 +749,7 @@ var mina = function (cid0) {
     fetchDanmaku(cid, function (danmaku) {
       var name = null;
       try {
-          name=document.title.replace(" 线上看 - 巴哈姆特动画疯","");
+          name=document.title.replace(" 線上看-巴哈姆特動畫瘋","");
       } 
       catch (e) {
       }
