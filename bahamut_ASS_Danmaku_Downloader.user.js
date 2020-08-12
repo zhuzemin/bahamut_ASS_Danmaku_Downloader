@@ -5,7 +5,7 @@
 // @description http://ani.gamer.com.tw download danmaku as ".ass"
 // @description:zh-TW  http://ani.gamer.com.tw download danmaku as ".ass"
 // @include     https://ani.gamer.com.tw/animeVideo.php?sn=*
-// @version     1.2
+// @version     1.21
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
 // @run-at      document-start
